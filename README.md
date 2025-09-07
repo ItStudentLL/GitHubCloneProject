@@ -1,1 +1,1 @@
-This is the description of my repo
+Git branching & merge conflict practice
